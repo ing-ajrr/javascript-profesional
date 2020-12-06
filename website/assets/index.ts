@@ -1,4 +1,4 @@
-import MediaPlayer from "@ingajrr/platzimediaplayer/lib/MediaPlayer";
+import MediaPlayer from "@ingajrr/platzimediaplayer";
 import AutoPlay from "@ingajrr/platzimediaplayer/lib/plugins/AutoPlay";
 import AutoPause from "@ingajrr/platzimediaplayer/lib/plugins/AutoPause";
 import Ads from "@ingajrr/platzimediaplayer/lib/plugins/Ads";
